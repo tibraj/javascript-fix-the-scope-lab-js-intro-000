@@ -10,12 +10,9 @@ var animal = 'cat'
   return animal
 }
 
-function add(n, 2) {
-  return n + 2;
-}
-
-  // Feel free to move things around!
-  const two = 2
+function add2(n) {
+  const two = 2;
+  return n + two;
 }
 
 var funkyFunction = function() {
